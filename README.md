@@ -1,5 +1,14 @@
-- 👋 Hi, I’m the [@kogito-ug](https://github.com/kogito-ug) administration 🤖 and I am ✨ excited ✨ to be here.
-- 👀 I’m interested in infrastructure automation. This account is maintaing a GitHub organization.
-- 🌱 I’m currently learning to manage projects in [@kogito-ops](https://github.com/kogito-ops).
-- 💞️ I’m looking to collaborate on projects related to Ubuntu, Ansible, OpenStack and Terraform.
-- 📫 You can always reach me via [mail](mailto:hello+github@kogito.network).
+# kogito-ug
+
+Automated account that manages the [@kogito-ops](https://github.com/kogito-ops) GitHub organization.
+
+## Purpose
+
+- Maintains GitHub organization settings and repositories
+- Automates infrastructure deployment tasks
+- Manages projects using Ubuntu, Ansible, OpenStack, and Terraform
+
+## Contact
+
+- Email: [hello+github@kogito.network](mailto:hello+github@kogito.network)
+- Mastodon: [@kogito@mastodon.social](https://mastodon.social/@kogito)
